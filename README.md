@@ -1,4 +1,4 @@
-jQuery-URI-Params-Extension
+jQuery URI Params Extension
 =================
 
 jQuery URI Params is a jQuery extension that can be used for getting and setting client-side parameters on the fly! Ever wanted to pull a querystring from the address bar? Or get one from an anchor tag? How about changing one that already exists or creating a brand new parameter? This extension will help you do all of that with great ease.
